@@ -1,0 +1,8 @@
+## Question 5
+Drop Employee_master table.
+
+### Query
+DROP TABLE Employee_master;
+
+### Output
+Table dropped successfully.

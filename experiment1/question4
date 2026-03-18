@@ -1,0 +1,8 @@
+## Question 4
+Alter SAL column with size 10,2.
+
+### Query
+ALTER TABLE Employee_master MODIFY SAL NUMBER(10,2);
+
+### Output
+Table altered successfully.

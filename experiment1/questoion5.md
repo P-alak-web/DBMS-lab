@@ -6,3 +6,4 @@ DROP TABLE Employee_master;
 
 ### Output
 Table dropped successfully.
+![alt text](image-8.png)

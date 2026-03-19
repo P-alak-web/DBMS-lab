@@ -5,4 +5,5 @@ Update 10% increase in salary of DeptNo 20.
 UPDATE Employee_master SET SAL = SAL * 1.10 WHERE DeptNo = 20;
 
 ### Output
-Rows updated successfu
+Rows updated successfull
+![alt text](image-6.png)

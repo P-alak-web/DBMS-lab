@@ -6,4 +6,4 @@ CREATE TABLE Employee_master AS SELECT * FROM Employee;
 
 ### Output
 Table created successfully.
-c:\Users\Palak Upadhyay\OneDrive\图片\Screenshots\Screenshot 2026-03-18 164002.png
+![alt text](image-9.png)

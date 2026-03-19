@@ -6,3 +6,4 @@ DELETE FROM Employee_master WHERE DeptNo = 10;
 
 ### Output
 Records deleted successfully.
+![alt text](image-10.png)
